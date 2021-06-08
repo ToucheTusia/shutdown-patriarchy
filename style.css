@@ -1,0 +1,14 @@
+body {
+    max-width: auto;
+    margin-top: 4rem;
+ }
+
+ .wrapper {
+    display: grid;
+    grid-template-columns: 245px 245px 245px;
+    justify-content: center;
+  }
+
+body {
+   background-color: blueviolet;
+}
